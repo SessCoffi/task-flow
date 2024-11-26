@@ -10,7 +10,7 @@ export const Header = () => {
         <div>
           <h1>TaskFlow</h1>
           <div className="color-gray">
-            <code>Eliminer le chaos, suivez le flux.</code>
+            <code>Eliminer le chaos, suivez le flux !!!.</code>
           </div>
         </div>
       </div>
